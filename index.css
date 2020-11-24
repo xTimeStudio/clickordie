@@ -1,0 +1,74 @@
+#body-platform {
+  padding: 250px;
+  float: left;
+  border: red 10px solid;
+  display: block;
+  margin: auto;
+  font-family: monospace;
+  background: #00ADE4;
+}
+#buttonToClick {
+  height:20px;
+  background:#443110;
+  border:solid 2px #a79212;
+  border-radius:0px 5px 5px 0px;
+  box-shadow:0px 6px 0px #7c690a;
+  font-size:10px;
+  padding-left:5px;
+  margin-top:10px;
+  display:inline-block;
+  float:left;
+  margin-right:10px;
+  padding-top:2px;
+  position:absolute;
+  top:270px;
+  left:530px;
+  width: 100px;
+  height: 100px;
+  font-family: fantasy;
+  font-size: 30px;
+}
+#counter {
+  width:100px;
+  height:20px;
+  border-radius:7px;
+  text-align: center;
+  border:solid 2px #755219;
+  box-shadow: 0px 5px #302009;
+  float:left;
+  display:inline-block;
+  position:absolute;
+  top:270px;
+  left:650px;
+  outline: none;
+  background-color: gray;
+  font-size: 15px;
+}
+#bonus {
+  padding: 0px 2px;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: block;
+  float:left;
+  border-radius: 2px;
+  text-align: center;
+  border:solid 2px #755219;
+  box-shadow: 0px 5px #302009;
+  outline: none;
+  background-color: #00ff00;
+  font-family: fantasy;
+}
+#nextBonus {
+  padding: 0px 2px;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: block;
+  float:left;
+  border-radius: 2px;
+  text-align: center;
+  border:solid 2px #755219;
+  box-shadow: 0px 5px #302009;
+  outline: none;
+  background-color: #00ff00;
+  font-family: serif;
+}
